@@ -21,6 +21,9 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .heading_1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -85,4 +88,14 @@
 .flow_shape {
 }
 .icon {
+}
+.link_button {
+  color:#169BD5;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
 }
